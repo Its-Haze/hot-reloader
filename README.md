@@ -22,7 +22,7 @@ Hope you like it.
 
 2. **Install hot-reloader**:
     ```bash
-    wget -O /usr/local/bin/hot-reloader https://raw.githubusercontent.com/its-haze/hot-reloader/master/hot-reloader.sh && chmod +x /usr/local/bin/hot-reloader
+    sudo wget -O /usr/local/bin/hot-reloader https://raw.githubusercontent.com/its-haze/hot-reloader/master/hot-reloader.sh && sudo chmod +x /usr/local/bin/hot-reloader
     ```
 
 ## Usage
